@@ -8,7 +8,7 @@
    echo "<hr />";
 
 // menambahkan 2 Teman Favorit dengan Array Push
-   array_push($siswa, "fayi","nazhif");
+   array_push($siswa, "fayi","rangga");
    echo "Siapa 2 Teman Favoritmu yang Baru ?";
    echo "<br />";
    echo $siswa[10];
